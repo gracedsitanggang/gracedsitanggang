@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Artificial Intelligance
 - 💞️ I’m looking to collaborate with anyone and anywhere
 - 📫 How to reach me grace.sitanggang03@gmail.com
-Follow me to know me more
+/n Follow me to know me more
 LinkedIn : https://www.linkedin.com/in/grace-d-sitanggang-323b38188/
 Medium : https://medium.com/@gracedsitanggang
 
