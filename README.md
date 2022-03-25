@@ -5,9 +5,8 @@
 - 🌱 I’m currently learning Artificial Intelligance
 - 💞️ I’m looking to collaborate with anyone and anywhere
 - 📫 How to reach me grace.sitanggang03@gmail.com
-/n Follow me to know me more
-LinkedIn : https://www.linkedin.com/in/grace-d-sitanggang-323b38188/
-Medium : https://medium.com/@gracedsitanggang
+- 📫 LinkedIn : https://www.linkedin.com/in/grace-d-sitanggang-323b38188/
+- 📫 Medium : https://medium.com/@gracedsitanggang
 
 <!---
 gracedsitanggang/gracedsitanggang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
