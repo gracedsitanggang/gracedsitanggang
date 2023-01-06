@@ -1,6 +1,6 @@
 #WELCOME
 
-- 👋 Hi folks, I’m Grace D. Sitanggang
+- 👋 Hi folks, I’m Grace
 - 👀 I’m interested in technology, especially for new technology
 - 🌱 I’m currently learning Quality Assurance
 - 💞️ I’m looking to collaborate with anyone and anywhere
