@@ -1,12 +1,12 @@
 #WELCOME
 
-- 👋 Hi, I’m Grace D. Sitanggang
-- 👀 I’m interested in Software Engineering
+- 👋 Hi folks, I’m Grace D. Sitanggang
+- 👀 I’m interested in technology, especially for new technology
 - 🌱 I’m currently learning Quality Assurance
 - 💞️ I’m looking to collaborate with anyone and anywhere
-- 📫 How to reach me grace.sitanggang03@gmail.com
+- 📫 Email    : grace.sitanggang03@gmail.com
 - 📫 LinkedIn : https://www.linkedin.com/in/grace-d-sitanggang-323b38188/
-- 📫 Medium : https://medium.com/@gracedsitanggang
+- 📫 Medium   : https://medium.com/@11418010
 
 <!---
 gracedsitanggang/gracedsitanggang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
